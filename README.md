@@ -1,4 +1,4 @@
-# Course-Work_CPP
+# Course_Work_CPP
 Course work in C ++ for 1 course.
 
 Постановка задачи.
