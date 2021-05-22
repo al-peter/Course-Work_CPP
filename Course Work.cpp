@@ -49,11 +49,11 @@ void DataBase_Display(int &number_of_passengers, Airport *&my_airport)
   for(int i = 0; i < number_of_passengers; i++)
   {
     cout << my_airport[i].full_name << "\t"
-	       << my_airport[i].flight_number  << " \t \t "
-	       << my_airport[i].baggage_receipt << " \t \t"
-	       << my_airport[i].pieces_of_baggage
-	       << " pieces" << " \t \t"
-	       << my_airport[i].total_weight_baggage << "kg\n";
+	 << my_airport[i].flight_number  << " \t \t "
+	 << my_airport[i].baggage_receipt << " \t \t"
+	 << my_airport[i].pieces_of_baggage
+	 << " pieces" << " \t \t"
+	 << my_airport[i].total_weight_baggage << "kg\n";
   }
 };
 
