@@ -65,7 +65,6 @@ int get_variant(int count)
 
    while (sscanf(s.c_str(), "%d", &variant) != 1 || variant < 0 || variant > count) 
    {
-      cout << "Incorrect input. Try again: ";
       getline(cin, s);
    }
 
