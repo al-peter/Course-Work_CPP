@@ -1,5 +1,5 @@
 # Course_Work_CPP
-Course work in C ++ for 1 course. /govnokod :(
+Course work in C ++ for 1 course. //govnokod :(
 
 Постановка задачи.
 1)	Спроектировать структуру информационной базы для своего варианта задания (Приложение А).  
